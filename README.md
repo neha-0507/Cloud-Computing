@@ -1,3 +1,3 @@
 # Cloud-Computing
 
-Refer readme.pdf
+Object detection using Raspberry Pi and AWS
